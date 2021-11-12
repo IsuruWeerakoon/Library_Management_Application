@@ -29,7 +29,6 @@
 					<li>To assess the need for library and documentation services among all sectors of the community and to promote the development of library and documentation services.</li>
 					<li>To administer, manage and control the affairs of the National Library and Documentation Centre.</li>
 					<li>To advise the authorities regarding plans, programmes and activities for the development of library and documentation services in Sri Lanka.</li>
-					<li>To provide leadership for libraries of all categories in Sri Lanka, leadership in providing information to the nation and for all services.</li>
 					<li>Establishment, development and maintenance of a complete national collection of written, printed and non print media published in Sri Lanka or abroad.</li>
 					<li>Establishment and maintenance of Bibliographic and Documentation Services.</li>
 					<li>Organization of human resources and Promotion of physical resources for the development of libraries in Sri Lanka.</li>
