@@ -32,7 +32,6 @@
 					<li>To provide leadership for libraries of all categories in Sri Lanka, leadership in providing information to the nation and for all services.</li>
 					<li>Establishment, development and maintenance of a complete national collection of written, printed and non print media published in Sri Lanka or abroad.</li>
 					<li>Establishment and maintenance of Bibliographic and Documentation Services.</li>
-					<li>Advise the government on matters relevant to the Library and Information Science field.</li>
 					<li>Organization of human resources and Promotion of physical resources for the development of libraries in Sri Lanka.</li>
 					<li>Encourage the local book publication and promotion of reading.</li>
 					<li>Encourage utilization of Information Technology for library and information services.</li>
