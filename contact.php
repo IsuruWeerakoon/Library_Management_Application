@@ -68,7 +68,7 @@
 							</td>
 							<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 							<td>No. 25,<br>
-								Colombo Road,<br>
+								High Level Road,<br>
 								Colombo,<br>
 								Sri Lanka.
 							</td>
