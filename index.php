@@ -10,7 +10,7 @@
 		</div>
 		<br>
 		<strong>
-			ABC Library and Documentation Services Board is the agency of the government of Sri Lanka which helps maintains all state libraries around the
+			<b>ABC Library</b> and Documentation Services Board is the agency of the government of Sri Lanka which helps maintains all state libraries around the
 			country including the Colombo Library but the management of individual libraries in cities and towns are carried out by the Municipal Council.
 			The ABC Library and Documentation Services Board was established under the act No: 51 of 1998 succeeding the Sri Lanka National
 			Library Services Board which was established in 1970. The board is placed under the Ministry of Education.
